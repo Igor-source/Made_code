@@ -1,0 +1,772 @@
+IdList,name,Kingdom
+1280,Staphylococcus aureus,Bacteria
+1313,Streptococcus pneumoniae,Bacteria
+1314,Streptococcus pyogenes,Bacteria
+562,Escherichia coli,Bacteria
+583,Proteus,Bacteria
+590,Salmonella,Bacteria
+570,Klebsiella,Bacteria
+286,Pseudomonas,Bacteria
+613,Serratia,Bacteria
+547,Enterobacter,Bacteria
+507,Alcaligenes,Bacteria
+33053,Neisseria perflava,Bacteria
+1279,Staphylococcus,Bacteria
+1386,Bacillus,Bacteria
+1301,Streptococcus,Bacteria
+1266,Sarcina,Bacteria
+573,Klebsiella pneumoniae,Bacteria
+90371,Salmonella enterica subsp. enterica serovar Typhimurium,Bacteria
+550,Enterobacter cloacae,Bacteria
+727,Haemophilus influenzae,Bacteria
+67828,Citrobacter gillenii,Bacteria
+79880,Shouchella clausii,Bacteria
+79880,Bacillus clausii,Bacteria
+648,Aeromonas caviae,Bacteria
+546,Citrobacter freundii,Bacteria
+543,Enterobacteriaceae,Bacteria
+36470,Streptococcus sp. 'group A',Bacteria
+1319,Streptococcus sp. 'group B',Bacteria
+78535,Streptococcus viridans,Bacteria
+480,Moraxella catarrhalis,Bacteria
+584,Proteus mirabilis,Bacteria
+171101,Streptococcus pneumoniae R6,Bacteria
+10116,Rattus norvegicus,
+470,Acinetobacter baumannii,Bacteria
+47886,Pseudomonas luteola,Bacteria
+287,Pseudomonas aeruginosa,Bacteria
+28901,Salmonella enterica,Bacteria
+294,Pseudomonas fluorescens,Bacteria
+588,Providencia stuartii,Bacteria
+43767,Prescottella equi,Bacteria
+1639,Listeria monocytogenes,Bacteria
+43765,Corynebacterium amycolatum,Bacteria
+38289,Corynebacterium jeikeium,Bacteria
+37637,Corynebacterium pseudodiphtheriticum,Bacteria
+43770,Corynebacterium striatum,Bacteria
+43771,Corynebacterium urealyticum,Bacteria
+52584,Brachyspira pilosicoli,Bacteria
+40324,Stenotrophomonas maltophilia,Bacteria
+38301,Corynebacterium minutissimum,Bacteria
+1725,Corynebacterium xerosis,Bacteria
+29471,Pectobacterium atrosepticum,Bacteria
+238,Elizabethkingia meningoseptica,Bacteria
+464,Fluoribacter gormanii,Bacteria
+155892,Caulobacter vibrioides,Bacteria
+29581,Janthinobacterium lividum,Bacteria
+76860,Streptococcus constellatus,Bacteria
+1303,Streptococcus oralis,Bacteria
+1338,Streptococcus intermedius,Bacteria
+28037,Streptococcus mitis,Bacteria
+1311,Streptococcus agalactiae,Bacteria
+95486,Burkholderia cenocepacia,Bacteria
+48296,Acinetobacter genomosp. 3,Bacteria
+48296,Acinetobacter pittii,Bacteria
+487,Neisseria meningitidis,Bacteria
+356621,Salmonella enterica subsp. enterica serovar Westhampton,Bacteria
+197,Campylobacter jejuni,Bacteria
+195,Campylobacter coli,Bacteria
+253,Chryseobacterium indologenes,Bacteria
+238,Flavobacterium meningosepticum,Bacteria
+630,Yersinia enterocolitica,Bacteria
+1282,Staphylococcus epidermidis,Bacteria
+1423,Bacillus subtilis,Bacteria
+1396,Bacillus cereus,Bacteria
+1270,Micrococcus luteus,Bacteria
+96241,Bacillus spizizenii,Bacteria
+9823,Sus scrofa,
+644,Aeromonas hydrophila,Bacteria
+1290,Staphylococcus hominis,Bacteria
+1351,Enterococcus faecalis,Bacteria
+1352,Enterococcus faecium,Bacteria
+2697049,Severe acute respiratory syndrome coronavirus 2,
+28035,Staphylococcus lugdunensis,Bacteria
+29385,Staphylococcus saprophyticus,Bacteria
+615,Serratia marcescens,Bacteria
+548,Klebsiella aerogenes,Bacteria
+35783,Enterococcus sp.,Bacteria
+5741,Giardia intestinalis,
+624,Shigella sonnei,Bacteria
+571,Klebsiella oxytoca,Bacteria
+5691,Trypanosoma brucei,
+7054,Photinus pyralis,
+54388,Salmonella enterica subsp. enterica serovar Paratyphi A,Bacteria
+623,Shigella flexneri,Bacteria
+585,Proteus vulgaris,Bacteria
+485,Neisseria gonorrhoeae,Bacteria
+817,Bacteroides fragilis,Bacteria
+856,Fusobacterium varium,Bacteria
+1502,Clostridium perfringens,Bacteria
+9615,Canis lupus familiaris,
+1428,Bacillus thuringiensis,Bacteria
+83333,Escherichia coli K-12,Bacteria
+1350,Enterococcus,Bacteria
+5480,Candida parapsilosis,Fungi
+292,Burkholderia cepacia,Bacteria
+135487,Nocardia cyriacigeorgica,Bacteria
+37329,Nocardia farcinica,Bacteria
+1823,Nocardia otitidiscaviarum,Bacteria
+37330,Nocardia nova,Bacteria
+37333,Nocardia transvalensis,Bacteria
+37328,Nocardia carnea,Bacteria
+37326,Nocardia brasiliensis,Bacteria
+1821,Nocardia sp.,Bacteria
+1773,Mycobacterium tuberculosis,Bacteria
+11676,Human immunodeficiency virus 1,
+2104,Mycoplasmoides pneumoniae,Bacteria
+1258,Peptoniphilus asaccharolyticus,Bacteria
+1261,Peptostreptococcus anaerobius,Bacteria
+1260,Finegoldia magna,Bacteria
+1747,Cutibacterium acnes,Bacteria
+197614,Streptococcus pasteurianus,Bacteria
+1335,Streptococcus equinus,Bacteria
+469,Acinetobacter,Bacteria
+2098,Metamycoplasma hominis,Bacteria
+2129,Ureaplasma,Bacteria
+5833,Plasmodium falciparum,
+1720,Corynebacterium sp.,Bacteria
+1772,Mycolicibacterium smegmatis,Bacteria
+8005,Electrophorus electricus,
+9796,Equus caballus,
+5661,Leishmania donovani,
+5693,Trypanosoma cruzi,
+31286,Trypanosoma brucei rhodesiense,
+72407,Klebsiella pneumoniae subsp. pneumoniae,Bacteria
+6279,Brugia malayi,
+42895,Enterobacter sp.,Bacteria
+1392,Bacillus anthracis,Bacteria
+446,Legionella pneumophila,Bacteria
+621,Shigella boydii,Bacteria
+622,Shigella dysenteriae,Bacteria
+508528,Leptospira interrogans serovar Portlandvere,Bacteria
+813,Chlamydia trachomatis,Bacteria
+944,Ehrlichia canis,Bacteria
+2123,Mycoplasma putrefaciens,Bacteria
+5821,Plasmodium berghei,
+39950,Dialister pneumosintes,Bacteria
+309120,Dialister micraerophilus,Bacteria
+308994,Dialister propionicifaciens,Bacteria
+218538,Dialister invisus,Bacteria
+33945,Enterococcus avium,Bacteria
+85549,Artemia salina,
+83558,Chlamydia pneumoniae,Bacteria
+632,Yersinia pestis,Bacteria
+235,Brucella abortus,
+29461,Brucella suis,
+28450,Burkholderia pseudomallei,Bacteria
+36809,Mycobacteroides abscessus,Bacteria
+1774,Mycobacteroides chelonae,Bacteria
+43304,Mycolicibacterium peregrinum,Bacteria
+1766,Mycolicibacterium fortuitum,Bacteria
+53462,Mycolicibacterium mageritense,Bacteria
+4932,Saccharomyces cerevisiae,Fungi
+678,Vibrio sp.,Bacteria
+672,Vibrio vulnificus,Bacteria
+676,Vibrio fluvialis,Bacteria
+663,Vibrio alginolyticus,Bacteria
+670,Vibrio parahaemolyticus,Bacteria
+666,Vibrio cholerae,Bacteria
+703,Plesiomonas shigelloides,Bacteria
+646,Aeromonas sobria,Bacteria
+633,Yersinia pseudotuberculosis,Bacteria
+90370,Salmonella enterica subsp. enterica serovar Typhi,Bacteria
+149539,Salmonella enterica subsp. enterica serovar Enteritidis,Bacteria
+4909,Issatchenkia orientalis,Fungi
+777,Coxiella burnetii,Bacteria
+10141,Cavia porcellus,
+9986,Oryctolagus cuniculus,
+9913,Bos taurus,
+5861,Plasmodium yoelii,
+5855,Plasmodium vivax,
+4682,Allium sativum,
+29482,Salmonella enterica subsp. enterica serovar Abony,Bacteria
+1302,Streptococcus gordonii,Bacteria
+11060,dengue virus type 2,
+42156,Litomosoides sigmodontis,
+5762,Naegleria gruberi,
+746128,Aspergillus fumigatus,Fungi
+33178,Aspergillus terreus,Fungi
+5059,Aspergillus flavus,Fungi
+5478,Nakaseomyces glabratus,Fungi
+4828,Absidia,Fungi
+4852,Cunninghamella,Fungi
+4830,Mucor,Fungi
+4838,Rhizomucor,Fungi
+4842,Rhizopus,Fungi
+13705,Syncephalastrum,Fungi
+4927,Wickerhamomyces anomalus,Fungi
+5476,Candida albicans,Fungi
+42374,Candida dubliniensis,Fungi
+4909,Pichia kudriavzevii,Fungi
+5482,Candida tropicalis,Fungi
+5061,Aspergillus niger,Fungi
+64495,Rhizopus arrhizus,Fungi
+90259,Rhizopus microsporus var. rhizopodiformis,Fungi
+86635,Rhizopus microsporus var. microsporus,Fungi
+36080,Mucor circinelloides,Fungi
+42458,Lichtheimia corymbifera,Fungi
+90269,Apophysomyces elegans,Fungi
+31870,Colletotrichum graminicola,Fungi
+523103,Trichophyton mentagrophytes,Fungi
+36911,Clavispora lusitaniae,Fungi
+273371,Candida orthopsilosis,Fungi
+273372,Candida metapsilosis,Fungi
+746128,Neosartorya fumigata (Aspergillus fumigatus),Fungi
+162425,Aspergillus nidulans,Fungi
+5207,Cryptococcus neoformans,Fungi
+5537,Rhodotorula mucilaginosa,Fungi
+5552,Trichosporon,Fungi
+4953,Zygosaccharomyces,Fungi
+34356,Kodamaea ohmeri,Fungi
+907340,Cyberlindnera saturnus,Fungi
+43987,Geotrichum,Fungi
+28985,Kluyveromyces lactis,Fungi
+4921,Pichia norvegensis,Fungi
+418086,Nakaseomyces nivariensis,Fungi
+53655,Pichia fermentans,Fungi
+241526,Candida africana,Fungi
+4903,Cyberlindnera jadinii,Fungi
+5481,Diutina rugosa,Fungi
+4959,Debaryomyces hansenii,Fungi
+4952,Yarrowia lipolytica,Fungi
+66948,Meyerozyma caribbica,Fungi
+4911,Kluyveromyces marxianus,Fungi
+4929,Meyerozyma guilliermondii,Fungi
+29916,Fusarium sp.,Fungi
+40355,Fonsecaea pedrosoi,Fungi
+254056,Fonsecaea monophora,Fungi
+5475,Candida,Fungi
+37769,Cryptococcus gattii,Fungi
+82517,Trichosporon inkin,Fungi
+82508,Trichosporon asahii,Fungi
+1173061,Geotrichum candidum,Fungi
+64493,Mucor hiemalis,Fungi
+41688,Lomentospora prolificans,Fungi
+563466,Scedosporium apiospermum,Fungi
+37727,Talaromyces marneffei,Fungi
+5081,Penicillium sp.,Fungi
+169388,Fusarium solani,Fungi
+5507,Fusarium oxysporum,Fungi
+29908,Sporothrix schenckii,Fungi
+5503,Curvularia lunata,Fungi
+91365,Curvularia australiensis,Fungi
+5551,Trichophyton rubrum,Fungi
+264951,Paecilomyces variotii,Fungi
+1095183,Magnusiomyces capitatus,Fungi
+40410,Cryptococcus neoformans var. neoformans,Fungi
+100951,Naganishia albida,Fungi
+5535,Rhodotorula glutinis,
+5418,Papiliotrema laurentii,Fungi
+75750,Aspergillus sydowii,Fungi
+46472,Aspergillus versicolor,Fungi
+40380,Aspergillus ochraceus,Fungi
+5052,Aspergillus,Fungi
+5073,Penicillium,Fungi
+948311,Fusarium proliferatum,Fungi
+117187,Fusarium verticillioides,Fungi
+561152,Scopulariopsis brevicaulis,Fungi
+5543,Trichoderma,Fungi
+61235,Fusarium equiseti,Fungi
+176275,Beauveria bassiana,Fungi
+5599,Alternaria alternata,Fungi
+5970,Exophiala dermatitidis,Fungi
+5580,Aureobasidium pullulans,Fungi
+5498,Cladosporium,Fungi
+90251,Cunninghamella bertholletiae,Fungi
+5068,Aspergillus tubingensis,Fungi
+5478,Candida glabrata,Fungi
+319629,Aspergillus brasiliensis,Fungi
+,[Candida] auris,
+29387,Staphylococcus sp.,Bacteria
+1306,Streptococcus sp.,Bacteria
+1283,Staphylococcus haemolyticus,Bacteria
+1764,Mycobacterium avium,Bacteria
+29388,Staphylococcus capitis,Bacteria
+1334,Streptococcus dysgalactiae,
+2,Bacteria,
+1642,Listeria innocua,Bacteria
+953,Wolbachia,Bacteria
+747,Pasteurella multocida,Bacteria
+1404,Priestia megaterium,Bacteria
+587,Providencia rettgeri,Bacteria
+594,Salmonella enterica subsp. enterica serovar Gallinarum,Bacteria
+1307,Streptococcus suis,Bacteria
+1769,Mycobacterium leprae,Bacteria
+29497,Vibrio splendidus,Bacteria
+55601,Vibrio anguillarum,Bacteria
+59201,Salmonella enterica subsp. enterica,
+1770,Mycobacterium avium subsp. paratuberculosis,
+11320,Influenza A virus,
+1421,Lysinibacillus sphaericus,Bacteria
+28090,Acinetobacter lwoffii,Bacteria
+303,Pseudomonas putida,Bacteria
+471,Acinetobacter calcoaceticus,Bacteria
+520,Bordetella pertussis,Bacteria
+1358,Lactococcus lactis,Bacteria
+582,Morganella morganii,Bacteria
+73239,Plasmodium yoelii yoelii,
+674,Vibrio mimicus,Bacteria
+636,Edwardsiella tarda,Bacteria
+10029,Cricetulus griseus,
+818,Bacteroides thetaiotaomicron,Bacteria
+28132,Prevotella melaninogenica,Bacteria
+28116,Bacteroides ovatus,Bacteria
+823,Parabacteroides distasonis,Bacteria
+821,Phocaeicola vulgatus,Bacteria
+851,Fusobacterium nucleatum,Bacteria
+859,Fusobacterium necrophorum,Bacteria
+1547,Thomasclavelia ramosa,Bacteria
+1504,Clostridium septicum,Bacteria
+1492,Clostridium butyricum,Bacteria
+1509,Clostridium sporogenes,Bacteria
+33034,Anaerococcus prevotii,Bacteria
+260603,Lycopus europaeus,
+9527,Cercopithecidae,
+518,Bordetella bronchiseptica,Bacteria
+715,Actinobacillus pleuropneumoniae,Bacteria
+1661,Trueperella pyogenes,Bacteria
+472,Acinetobacter sp.,Bacteria
+,Bacillus subtilis (strain 168),
+35725,Macrophomina phaseolina,Fungi
+5702,Trypanosoma brucei brucei,
+1771,Mycolicibacterium phlei,Bacteria
+456999,Rhizoctonia solani,Fungi
+305,Ralstonia solanacearum,Bacteria
+551,Erwinia,Bacteria
+53413,Xanthomonas axonopodis,Bacteria
+347,Xanthomonas oryzae,Bacteria
+5518,Fusarium graminearum,Fungi
+105487,Valsa mali,Fungi
+1309,Streptococcus mutans,Bacteria
+1296,Mammaliicoccus sciuri,Bacteria
+1768,Mycobacterium kansasii,Bacteria
+1513,Clostridium tetani,Bacteria
+1408,Bacillus pumilus,Bacteria
+266,Paracoccus denitrificans,Bacteria
+317,Pseudomonas syringae,Bacteria
+1716,Corynebacterium,Bacteria
+5057,Aspergillus clavatus,Fungi
+1409,Bacillus sp.,Bacteria
+1390,Bacillus amyloliquefaciens,Bacteria
+996,Flavobacterium columnare,Bacteria
+1354,Enterococcus hirae,Bacteria
+183417,Proteus hauseri,Bacteria
+74722,Stachybotrys chartarum,Fungi
+5076,Penicillium chrysogenum,Fungi
+5341,Agaricus bisporus,Fungi
+620,Shigella,Bacteria
+1498,Hathewaya histolytica,Bacteria
+1496,Clostridioides difficile,Bacteria
+28130,Prevotella disiens,Bacteria
+840,Hoylesella loescheii,Bacteria
+28125,Prevotella bivia,Bacteria
+848,Fusobacterium,Bacteria
+29466,Veillonella parvula,Bacteria
+1257,Peptostreptococcus,Bacteria
+33033,Parvimonas micra,Bacteria
+1767,Mycobacterium intracellulare,Bacteria
+545,Citrobacter koseri,Bacteria
+476,Moraxella bovis,Bacteria
+210,Helicobacter pylori,Bacteria
+714,Aggregatibacter actinomycetemcomitans,Bacteria
+107673,Acinetobacter calcoaceticus subsp. anitratus,Bacteria
+511,Alcaligenes faecalis,Bacteria
+84631,Proteus inconstans,Bacteria
+1305,Streptococcus sanguinis,Bacteria
+1763,Mycobacterium,Bacteria
+544,Citrobacter,Bacteria
+60711,Chlorocebus sabaeus,
+1810,Mycolicibacterium vaccae,Bacteria
+1791,Mycolicibacterium aurum,Bacteria
+536,Chromobacterium violaceum,Bacteria
+220341,Salmonella enterica subsp. enterica serovar Typhi str. CT18,Bacteria
+1806,Mycobacterium tuberculosis variant microti,Bacteria
+729,Haemophilus parainfluenzae,Bacteria
+576,Klebsiella sp.,Bacteria
+80866,Delftia acidovorans,Bacteria
+29382,Staphylococcus cohnii,Bacteria
+1292,Staphylococcus warneri,Bacteria
+1911,Streptomyces griseus,Bacteria
+1765,Mycobacterium tuberculosis variant bovis,Bacteria
+40216,Acinetobacter radioresistens,Bacteria
+1304,Streptococcus salivarius,Bacteria
+759,Pasteurella sp.,Bacteria
+1718,Corynebacterium glutamicum,Bacteria
+42858,Mammaliicoccus lentus,Bacteria
+1288,Staphylococcus xylosus,Bacteria
+158836,Enterobacter hormaechei,Bacteria
+35703,Citrobacter amalonaticus,Bacteria
+57975,Burkholderia thailandensis,Bacteria
+1402,Bacillus licheniformis,Bacteria
+1393,Brevibacillus brevis,Bacteria
+57045,Salmonella enterica subsp. enterica serovar Paratyphi B,Bacteria
+599,Salmonella sp.,Bacteria
+1888,Streptomyces albus,Bacteria
+1269,Micrococcus,Bacteria
+10298,Human alphaherpesvirus 1,
+1467,Lederbergia lenta,Bacteria
+702,Plesiomonas,Bacteria
+177416,Francisella tularensis subsp. tularensis SCHU S4,Bacteria
+575,Raoultella planticola,Bacteria
+29430,Acinetobacter haemolyticus,Bacteria
+5811,Toxoplasma gondii,
+9544,Macaca mulatta,
+72000,Kocuria rhizophila,Bacteria
+31285,Trypanosoma brucei gambiense,
+87883,Burkholderia multivorans,Bacteria
+28131,Prevotella intermedia,Bacteria
+263,Francisella tularensis,Bacteria
+1833,Rhodococcus erythropolis,Bacteria
+29460,Brucella neotomae,Bacteria
+37162,Mycobacterium avium complex sp.,Bacteria
+5005,Sporobolomyces salmonicolor,Fungi
+37734,Enterococcus casseliflavus,Bacteria
+1281,Staphylococcus carnosus,Bacteria
+837,Porphyromonas gingivalis,Bacteria
+229037,Proteus sp.,Bacteria
+1520,Clostridium beijerinckii,Bacteria
+1491,Clostridium botulinum,Bacteria
+86664,Bacillus flexus,Bacteria
+148305,Pyricularia grisea,Fungi
+2052682,Globisporangium ultimum,
+1781,Mycobacterium marinum,Bacteria
+1778,Mycobacterium gordonae,Bacteria
+33892,Mycobacterium tuberculosis variant bovis BCG,Bacteria
+9557,Papio hamadryas,
+1789,Mycobacterium xenopi,Bacteria
+1809,Mycobacterium ulcerans,Bacteria
+1801,Mycolicibacterium diernhoferi,Bacteria
+10036,Mesocricetus auratus,
+6660,Artemia,
+625,Shigella sp.,Bacteria
+1667,Arthrobacter sp.,Bacteria
+1783,Mycobacterium scrofulaceum,Bacteria
+1787,Mycobacterium szulgai,Bacteria
+1788,Mycolicibacter terrae,Bacteria
+83332,Mycobacterium tuberculosis H37Rv,Bacteria
+1891767,Simian virus 40,
+36329,Plasmodium falciparum 3D7,
+3559,Chenopodium album,
+108380,Sida spinosa,
+346985,Senna obtusifolia,
+4119,Ipomoea,
+4560,Sorghum halepense,
+4558,Sorghum bicolor,
+29659,Poa nemoralis,
+4212,Ambrosia artemisiifolia,
+65948,Nasturtium officinale,
+4076,Datura stramonium,
+358,Agrobacterium tumefaciens,Bacteria
+554,Pectobacterium carotovorum,Bacteria
+2035,Curtobacterium flaccumfaciens,Bacteria
+27357,Colletotrichum acutatum,Fungi
+7957,Carassius auratus,
+5759,Entamoeba histolytica,
+,Influenza A virus (strain A/USSR/90/1977 H1N1),
+10026,Cricetinae,
+37124,Chikungunya virus,
+64320,Zika virus,
+3052230,Hepacivirus hominis,
+1681,Bifidobacterium bifidum,Bacteria
+1685,Bifidobacterium breve,Bacteria
+216816,Bifidobacterium longum,Bacteria
+33905,Bifidobacterium thermophilum,Bacteria
+1902,Streptomyces coelicolor,Bacteria
+5272,Microbotryum violaceum,Fungi
+556,Dickeya chrysanthemi,Bacteria
+132473,Streptomyces alboniger,Bacteria
+42234,Streptomyces acidiscabies,Bacteria
+1930,Streptomyces scabiei,Bacteria
+1353,Enterococcus gallinarum,Bacteria
+68766,Fusobacterium sp.,Bacteria
+28126,Prevotella buccae,Bacteria
+28128,Prevotella corporis,Bacteria
+28134,Hoylesella oralis,Bacteria
+29317,Actinomyces sp.,Bacteria
+301447,Streptococcus pyogenes serotype M1,Bacteria
+1262,Peptostreptococcus sp.,Bacteria
+34078,Scytonema hofmannii,Bacteria
+1406,Paenibacillus polymyxa,Bacteria
+820,Bacteroides uniformis,Bacteria
+47678,Bacteroides caccae,Bacteria
+46506,Bacteroides stercoris,Bacteria
+46503,Parabacteroides merdae,Bacteria
+29363,Clostridium paraputrificum,Bacteria
+1559,Clostridium tertium,Bacteria
+1743,Propionibacterium,Bacteria
+29523,Bacteroides sp.,Bacteria
+850,Fusobacterium mortiferum,Bacteria
+28123,Porphyromonas asaccharolytica,Bacteria
+1659,Actinomyces israelii,Bacteria
+52773,Schaalia meyeri,Bacteria
+1655,Actinomyces naeslundii,Bacteria
+84112,Eggerthella lenta,Bacteria
+142586,Eubacterium sp.,Bacteria
+1542,Clostridium novyi,Bacteria
+1529,Clostridium cadaveris,Bacteria
+1505,Paeniclostridium sordellii,Bacteria
+1490,Paraclostridium bifermentans,Bacteria
+1736,Eubacterium limosum,Bacteria
+1717,Corynebacterium diphtheriae,Bacteria
+40041,Streptococcus equi subsp. zooepidemicus,Bacteria
+66527,Balamuthia mandrillaris,
+331636,Chlamydia psittaci 6BC,Bacteria
+28114,Porphyromonas levii,Bacteria
+33036,Anaerococcus tetradius,Bacteria
+1531,Enterocloster clostridioformis,Bacteria
+28133,Prevotella nigrescens,Bacteria
+28129,Prevotella denticola,Bacteria
+169292,Corynebacterium aurimucosum,Bacteria
+38284,Corynebacterium accolens,Bacteria
+146827,Corynebacterium simulans,Bacteria
+119602,Streptococcus dysgalactiae subsp. equisimilis,Bacteria
+322095,Porphyromonas somerae,Bacteria
+1527,Anaerocolumna aminovalerica,Bacteria
+1539,Clostridium malenominatum,Bacteria
+29370,Lacrimispora sphenoides,Bacteria
+33037,Anaerococcus vaginalis,Bacteria
+29465,Veillonella,Bacteria
+74426,Collinsella aerofaciens,Bacteria
+1582,Lacticaseibacillus casei,Bacteria
+47715,Lacticaseibacillus rhamnosus,Bacteria
+1579,Lactobacillus acidophilus,Bacteria
+1613,Limosilactobacillus fermentum,Bacteria
+1590,Lactiplantibacillus plantarum,Bacteria
+1598,Limosilactobacillus reuteri,Bacteria
+1018,Capnocytophaga ochracea,Bacteria
+1285,Staphylococcus intermedius,Bacteria
+41978,Ruminococcus sp.,Bacteria
+5820,Plasmodium,
+82135,Fannyhessea vaginae,Bacteria
+2702,Gardnerella vaginalis,Bacteria
+144177,Mobiluncus curtisii subsp. curtisii,Bacteria
+2741,Peptococcus niger,Bacteria
+158,Treponema denticola,Bacteria
+1656,Actinomyces viscosus,Bacteria
+109790,Lactobacillus jensenii,Bacteria
+1591,Lactobacillus sp.,Bacteria
+1488,Clostridium acetobutylicum,Bacteria
+8017,Oncorhynchus gorbuscha,
+10045,Gerbillinae,
+53345,Enterococcus durans,Bacteria
+1286,Staphylococcus simulans,Bacteria
+589,Providencia sp.,Bacteria
+9483,Callithrix jacchus,
+9541,Macaca fascicularis,
+7787,Torpedo californica,
+10359,Human betaherpesvirus 5,
+45589,Scheffersomyces shehatae,Fungi
+5597,Scedosporium boydii,Fungi
+4472,Lemna minor,
+62759,Agrostis stolonifera var. palustris,
+5270,Ustilago maydis,Fungi
+4787,Phytophthora infestans,
+318829,Pyricularia oryzae,Fungi
+1047171,Zymoseptoria tritici,Fungi
+13684,Parastagonospora nodorum,Fungi
+27348,Puccinia recondita,Fungi
+62690,Blumeria graminis f. sp. tritici,Fungi
+838,Prevotella,Bacteria
+2096,Mycoplasmoides gallisepticum,Bacteria
+539,Eikenella corrodens,Bacteria
+306,Pseudomonas sp.,Bacteria
+28141,Cronobacter sakazakii,Bacteria
+46126,Staphylococcus chromogenes,Bacteria
+61647,Pluralibacter gergoviae,Bacteria
+6239,Caenorhabditis elegans,
+47917,Serratia fonticola,Bacteria
+202950,Acinetobacter baylyi,Bacteria
+656,Aeromonas allosaccharophila,Bacteria
+1243,Leuconostoc,Bacteria
+1824,Nocardia asteroides,Bacteria
+561307,Staphylococcus aureus subsp. aureus RN4220,Bacteria
+29442,Pseudomonas tolaasii,Bacteria
+384602,Micrococcus flavus,Bacteria
+360920,Pseudomonas savastanoi pv. savastanoi,Bacteria
+1422,Geobacillus stearothermophilus,Bacteria
+67780,Edwardsiella ictaluri,Bacteria
+57493,Kocuria,Bacteria
+1405,Bacillus mycoides,Bacteria
+339,Xanthomonas campestris,Bacteria
+552,Erwinia amylovora,Bacteria
+254758,Siminovitchia fortis,Bacteria
+189290,Meloidogyne,
+1883,Streptomyces,Bacteria
+1934,Streptomyces thermovulgaris,Bacteria
+34393,Microsporum audouinii,Fungi
+614,Serratia liquefaciens,Bacteria
+1648,Erysipelothrix rhusiopathiae,Bacteria
+396024,Aspergillus ruber,Fungi
+64633,Mycotypha microspora,Fungi
+4754,Pneumocystis carinii,Fungi
+647,Aeromonas sp.,Bacteria
+196,Campylobacter fetus,Bacteria
+1697,Corynebacterium ammoniagenes,Bacteria
+5078,Penicillium griseofulvum,Fungi
+5544,Trichoderma harzianum,Fungi
+72570,Actinomadura sp. R39,Bacteria
+2748,Carnobacterium divergens,Bacteria
+27334,Penicillium expansum,Fungi
+108619,Salmonella newport,Bacteria
+1310,Streptococcus sobrinus,Bacteria
+53707,Pseudomonas amygdali pv. lachrymans,Bacteria
+56460,Xanthomonas vesicatoria,Bacteria
+1582,Lactobacillus casei,Bacteria
+559292,Saccharomyces cerevisiae S288c,Fungi
+5839,Plasmodium falciparum K1,
+5823,Plasmodium berghei str. ANKA,
+9031,Gallus gallus,
+5807,Cryptosporidium parvum,
+33632,Babesia gibsoni,
+5665,Leishmania mexicana,
+11520,Influenza B virus,
+11276,Vesicular stomatitis virus,
+12073,Coxsackievirus B4,
+11216,Human respirovirus 3,
+538120,Mammalian orthoreovirus 1,
+11034,Sindbis virus,
+11587,Punta Toro virus,
+11089,Yellow fever virus,
+12814,Respiratory syncytial virus,
+5664,Leishmania major,
+42068,Pneumocystis jirovecii,Fungi
+4513,Hordeum vulgare,
+870730,Ogataea angusta,Fungi
+5455,Colletotrichum,Fungi
+33196,Botrytis,Fungi
+64631,Benjaminiella poitrasii,Fungi
+33959,Lactobacillus johnsonii,Bacteria
+5547,Trichoderma viride,Fungi
+1698,Brevibacterium epidermidis,Bacteria
+36740,Dermabacter hominis,Bacteria
+662,Vibrio,Bacteria
+553611,Photobacterium leiognathi,Bacteria
+9611,Nocardia canis,
+487889,Xanthomonas euvesicatoria pv. sesami,Bacteria
+33069,Pseudomonas viridiflava,Bacteria
+1464,Paenibacillus larvae,Bacteria
+29379,Staphylococcus auricularis,Bacteria
+724,Haemophilus,Bacteria
+5722,Trichomonas vaginalis,
+5671,Leishmania infantum,
+5659,Leishmania amazonensis,
+316,Stutzerimonas stutzeri,Bacteria
+1776,Mycolicibacterium flavescens,Bacteria
+126385,Providencia alcalifaciens,Bacteria
+1427,Bacillus thermoproteolyticus,Bacteria
+671,Vibrio proteolyticus,Bacteria
+11709,Human immunodeficiency virus 2,
+2148,Acholeplasma laidlawii,Bacteria
+519353,Echinococcus equinus,
+2315449,Yamadazyma tenuis,Fungi
+1584,Lactobacillus delbrueckii,Bacteria
+1597,Lacticaseibacillus paracasei,Bacteria
+357276,Phocaeicola dorei,Bacteria
+1596,Lactobacillus gasseri,Bacteria
+9685,Felis catus,
+6183,Schistosoma mansoni,
+34387,Trichophyton tonsurans,Fungi
+34392,Microsporum,Fungi
+63400,Trichophyton benhamiae,Fungi
+669,Vibrio harveyi,Bacteria
+5065,Aspergillus sp.,Fungi
+182092,Botrytis fabae,Fungi
+5479,Candida maltosa,Fungi
+63402,Nannizzia gypsea,Fungi
+34391,Epidermophyton floccosum,Fungi
+101480,Trichophyton interdigitale,Fungi
+29917,Cladosporium cladosporioides,Fungi
+29918,Cladosporium herbarum,Fungi
+1969,Streptomyces chartreusis,Bacteria
+4839,Rhizomucor miehei,Fungi
+48100,Alternaria solani,Fungi
+64187,Xanthomonas oryzae pv. oryzae,Bacteria
+28171,Vibrio aestuarianus,Bacteria
+45133,Lasiodiplodia theobromae,Fungi
+293,Brevundimonas diminuta,Bacteria
+528,Ochrobactrum,Bacteria
+59814,Pantoea dispersa,Bacteria
+12071,Coxsackievirus B1,
+61366,Fusarium oxysporum f. sp. cubense,Fungi
+570156,Pseudoalteromonas lipolytica,Bacteria
+107327,Pseudoalteromonas ulvae,Bacteria
+36015,Pichia kluyveri,Fungi
+13689,Sphingomonas paucimobilis,Bacteria
+7111,Trichoplusia ni,
+65603,Setaria cervi,
+6287,Dirofilaria immitis,
+7955,Danio rerio,
+482,Neisseria,Bacteria
+74035,Arthroderma uncinatum,Fungi
+119676,Nannizzia nana,Fungi
+1592208,Paraphyton cookei,Fungi
+1275,Kocuria rosea,Bacteria
+4930,Saccharomyces,Fungi
+279139,Trichophyton tonsurans var. sulfureum,Fungi
+40296,Penicillium italicum,Fungi
+13706,Syncephalastrum racemosum,Fungi
+319,Pseudomonas savastanoi pv. phaseolicola,Bacteria
+382,Sinorhizobium meliloti,Bacteria
+1398,Heyndrickxia coagulans,Bacteria
+40374,Scopulariopsis,Fungi
+36483,Cricetinae gen. sp.,
+63405,Microsporum canis,Fungi
+39412,Phialophora verrucosa,Fungi
+4769,Saprolegnia,
+5037,Histoplasma capsulatum,Fungi
+56406,Hanseniaspora guilliermondii,Fungi
+5825,Plasmodium chabaudi,
+668,Aliivibrio fischeri,Bacteria
+5067,Aspergillus parasiticus,Fungi
+36043,Lipomyces lipofer,Fungi
+5467,Colletotrichum truncatum,Fungi
+65070,Pythium aphanidermatum,
+446639,Trichophyton longifusum,Fungi
+105351,Aspergillus awamori,Fungi
+5098,Monascus purpureus,Fungi
+44271,Leishmania chagasi,
+4841,Mucor racemosus,Fungi
+10095,Mus sp.,
+5553,Trichosporon beigelii,Fungi
+34388,Trichophyton violaceum,Fungi
+5501,Coccidioides immitis,Fungi
+5062,Aspergillus oryzae,Fungi
+86057,Fonsecaea compacta,Fungi
+82519,Apiotrichum loubieri,Fungi
+82522,Cutaneotrichosporon mucoides,Fungi
+45594,Starmerella stellata,Fungi
+29833,Hanseniaspora uvarum,Fungi
+5533,Rhodotorula,Fungi
+4943,Saccharomycopsis,Fungi
+29907,Sporothrix,Fungi
+545651,Sporothrix globosa,Fungi
+402873,Sporothrix albicans,Fungi
+5077,Penicillium citrinum,Fungi
+5502,Curvularia,Fungi
+55194,Malassezia furfur,Fungi
+5506,Fusarium,
+91928,Exophiala spinifera,Fungi
+40559,Botrytis cinerea,Fungi
+708069,Mucor fuscus,Fungi
+12721,Human immunodeficiency virus,
+92955,Goffeauzyma gastrica,Fungi
+69893,Chrysosporium keratinophilum,Fungi
+87101,Pichia sporocuriosa,Fungi
+77020,Malassezia pachydermatis,Fungi
+34384,Arthrodermataceae,Fungi
+63417,Trichophyton verrucosum,Fungi
+5660,Leishmania braziliensis,
+5679,Leishmania panamensis,
+121759,Paracoccidioides brasiliensis,Fungi
+324740,Kregervanrija fluxuum,Fungi
+1884637,Cryptococcus gattii species complex,Fungi
+4751,Fungi,
+1784,Mycobacterium simiae,Bacteria
+1780,Mycobacterium malmoense,Bacteria
+810,Chlamydia,Bacteria
+5763,Naegleria fowleri,
+186538,Zaire ebolavirus,
+208964,Pseudomonas aeruginosa PAO1,Bacteria
+654,Aeromonas veronii,Bacteria
+47312,Tsukamurella pulmonis,Bacteria
+3562,Spinacia oleracea,
